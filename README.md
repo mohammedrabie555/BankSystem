@@ -28,9 +28,9 @@ Developed as part of my learning journey in Object-Oriented Programming (OOP).
 ## How to Run
 
 Compile the project:
-javac Main.java
-Run the program:
-java Main
+* javac Main.java
+* Run the program:
+* java Main
 
 ## Purpose
 
